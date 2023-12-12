@@ -16,7 +16,7 @@
 | Y2-S2         | Desenho de Algoritmos                             | Train Network Manager                          | A command line utility tool to manage train networks. Made in C++                                                                                                                    | https://github.com/unrealxinfinity/DA2023             |
 | Y3-S1         | Programação Lógica e Funcional                    | Agere: Board game                              | A linux command line board game                                                                                                                                                      | https://github.com/unrealxinfinity/Agere-PFL          |
 | Null          | Null                                              | Learning-project for unity: Game               | An endless runner game that's themed over gravity. Still in development and made in Unity:C#                                                                                         | https://github.com/unrealxinfinity/Learning-Projects  |
-| Null          | Null                                              | Personal game made for fun: Sea-Devil survivor | A rogue-like game themed in One Piece that's still in development and in very early stage. Made in Unity:C#                                                                          | https://github.com/unrealxinfinity/Sea-Devil-Survivor |
+
 
 - 🔭 I’m currently finishing my 3rd year of bachlors in FEUP;
 - 🌱 I’m currently studying Information Engineering and Computing;
