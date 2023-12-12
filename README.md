@@ -2,7 +2,7 @@
 ### My name is HaoChang Fu
 > "What can I say, I try to make things work when I'm 'hard-aware C: "
 
-  I'm a student in Information Engineering and Computing (LEIC in short) currently studying at FEUP and I am very keen on low level programming, didn't have the chance to learn more about it from university since the subjects that teach it are limited but I'm a freak in terms of hardware and what's behind them, it's always been a passion of mine so I usually break down all the electronics devices at home so I could see all the logic gates, lines behind and that green mainboard and different lines connecting.
+  I'm a student in Informatics Engineering and Computing (LEIC in short) currently studying at FEUP and I am very keen on low level programming, didn't have the chance to learn more about it from university since the subjects that teach it are limited but I'm a freak in terms of hardware and what's behind them, it's always been a passion of mine so I usually break down all the electronics devices at home so I could see all the logic gates, lines behind and that green mainboard and different lines connecting.
   Now that I've been introduced to the world of programming, I'd love to use the code to make devices work.
 ### Here are some things I've worked on through my journey:
 
