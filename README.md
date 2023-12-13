@@ -19,7 +19,7 @@
 | Null          | Null                                              | Learning-project for unity: Game               | An endless runner game that's themed over gravity. Still in development and made in Unity:C#.                                                                                        | https://github.com/unrealxinfinity/Learning-Projects |
 
 
-- 🔭 I’m currently finishing my 3rd year of bachlors in FEUP;
+- 🎩 I’m currently finishing my 3rd year of bachlor's in FEUP;
 - 🌱 I’m currently studying Information Engineering and Computing;
 - 👯 I’m looking to collaborate with any company that has interest in hardware programming or anything that inspires me;
 - 🤔 I’m looking for sharpening my skills with SQL or any kind of web technology such as frameworks and work on front end skills;
