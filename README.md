@@ -27,3 +27,8 @@
 - 📫 How to reach me: fuhaochang664961423@hotmail.com
 - 📞 +351962488078
 
+## My stats:
+<div align="center">
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealxinfinity&layout=compact">
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=unrealxinfinity&show_icons=true&hide_border=true">
+</div>
