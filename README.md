@@ -16,7 +16,7 @@
 | Y2-S2         | Desenho de Algoritmos                             | [Train Network Manager](https://github.com/unrealxinfinity/DA2023)                       | A command line utility tool to manage train networks. Made in C++.                                                                                                                   |
 | Y3-S1         | Programação Lógica e Funcional                    | [Agere: Board game](https://github.com/unrealxinfinity/Agere-PFL)                        | A linux command line board game made in Prolog.                                                                                                                                                     |
 | Y2-S2         | Engenharia de Software                            | [Fortuneko](https://github.com/unrealxinfinity/ESOF)                                     | A financial management app on mobile platform made in flutter.                                                                                                                       |
-| Null          | Null                                              | [Learning-project for unity: Game](https://github.com/unrealxinfinity/Learning-Projects) | An endless runner game that's themed over gravity. Still in development and made in Unity:C#.                                                                                        |
+
 
 
 - 🎩 I’m currently finishing my 3rd year of bachlor's in FEUP;
