@@ -20,7 +20,7 @@
 | Y3-S2         | Compiladores                                      | [Compiler J--](https://github.com/unrealxinfinity/comp2024)                              | Compiler project for java minus minus (J--)                                                                                                                                          |
 
 
-- 🎩 I’m currently finishing my 3rd year of bachlor's in FEUP;
+- 🎩 I’m currently attending master's degree in FEUP;
 - 🌱 I’m currently studying Information Engineering and Computing;
 - 👯 I’m looking to collaborate with any company that has interest in hardware programming or anything that inspires me;
 - 📫 How to reach me: fuhaochang664961423@hotmail.com
