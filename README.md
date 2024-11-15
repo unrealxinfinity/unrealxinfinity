@@ -2,8 +2,8 @@
 ### My name is HaoChang Fu
 > "What's 1+1? It's 1. Why? You'd understand as an IT guy."
 
-  I'm a student in Informatics Engineering and Computing (LEIC in short) currently studying at FEUP and I am very keen on low level programming, didn't have the chance to learn more about it from university since the subjects that teach it are limited but I'm a freak in terms of hardware and what's behind them, it's always been a passion of mine so I usually break down all the electronics devices at home so I could see all the logic gates, lines behind and that green mainboard and different lines connecting.
-  Now that I've been introduced to the world of programming, I'd love to use the code to make devices work.
+  I'm a student in Informatics Engineering and Computing (LEIC in short) currently studying at FEUP and I am very keen on technology, it's always been a passion of mine so I usually tend to be on par of latest tech innovations.
+  Now that I've been introduced to the world of programming, I'd love to use the code to make things work.
 ### Here are some things I've worked on through my journey:
 
 | Year-Semester | Subject                                           | Project                                                                                  | Description                                                                                                                                                                          |
