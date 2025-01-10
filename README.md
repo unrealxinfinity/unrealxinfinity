@@ -4,6 +4,7 @@
 
   I'm a student in Informatics Engineering and Computing (LEIC in short) currently studying at FEUP and I am very keen on technology, it's always been a passion of mine so I usually tend to be on par of latest tech innovations.
   Now that I've been introduced to the world of programming, I'd love to use the code to make things work.
+> PS: I'll update this with my journey during Master's degree once exam period is over.
 ### Here are some things I've worked on through my journey:
 
 | Year-Semester | Subject                                           | Project                                                                                  | Description                                                                                                                                                                          |
