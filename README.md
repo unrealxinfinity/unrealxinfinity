@@ -33,7 +33,7 @@
 - 📞 +351962488078 or +351928225945;
 
 ## My stats:
-<div align="center">
+<div align = "center">
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealxinfinity&layout=compact">
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=unrealxinfinity&show_icons=true&hide_border=true">
+  ![Fu's GitHub stats](https://github-readme-stats.vercel.app/api?username=unrealxinfinity&show_icons=true&theme=transparent)
 </div>
