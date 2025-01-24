@@ -34,6 +34,7 @@
 
 ## My stats:
 <div align = "center">
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealxinfinity&layout=compact&theme=transparent">
+  
+  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrealxinfinity&layout=donut&theme=transparent" alt="Fu's most used languages">
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=unrealxinfinity&show_icons=true&theme=transparent" alt="Fu's github stats">
 </div>
