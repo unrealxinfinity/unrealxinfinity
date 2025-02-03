@@ -2,7 +2,7 @@
 ### My name is HaoChang Fu
 > "What's 1+1? It's 1. Why? You'd understand as an IT guy."
 
-  I'm a student in Informatics Engineering and Computing (LEIC in short) currently studying at FEUP and I am very keen on technology, it's always been a passion of mine so I usually tend to be on par of latest tech innovations.
+  I'm a student in Informatics Engineering and Computing (LEIC and MEIC in short) currently studying at FEUP and I am very keen on technology, it's always been a passion of mine so I usually tend to be on par of latest tech innovations.
   Now that I've been introduced to the world of programming, I'd love to use the code to make things work.
 > PS: I'll keep updating this during my Master's journey.
 ### Here are some things I've worked on through my journey:
