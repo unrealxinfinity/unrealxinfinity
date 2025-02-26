@@ -4,7 +4,9 @@
 
   I'm a student in Informatics Engineering and Computing (LEIC and MEIC in short) currently studying at FEUP and I am very keen on technology, it's always been a passion of mine so I usually tend to be on par of latest tech innovations.
   Now that I've been introduced to the world of programming, I'd love to use the code to make things work.
+  
   If you wish to see my CV it's linked [here](https://www.canva.com/design/DAF6PCpI4SU/TLYp_GXJ8nvYkXKiGgwn4Q/edit?utm_content=DAF6PCpI4SU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  I also included my own website besides here!
 > PS: I'll keep updating this during my Master's journey.
 ### Here are some things I've worked on through my journey:
 
