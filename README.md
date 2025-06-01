@@ -30,7 +30,6 @@
 
 - 🎩 I’m currently attending master's degree in FEUP;
 - 🌱 I’m currently studying Information Engineering and Computing;
-- 👯 I’m looking to collaborate with any company that has interest in programming or anything that inspires me;
 - 💻 Currently working as Graduate Frontend Software Developer at Revolut;
 - 📫 How to reach me: fuhaochang664961423@hotmail.com;
 - 📞 +351962488078 or +351928225945;
