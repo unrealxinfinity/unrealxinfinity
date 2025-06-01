@@ -29,7 +29,7 @@
 | Y4-S1               | Large Scale Distributed Systems             | [Local-First shopping cart](https://github.com/unrealxinfinity/SDLE)                     | A local first shared shopping cart using a inspired custom remote server architecture for synchronization and storage, using also CRDTs to ensure consistency.                       |
 
 - 🎩 I’m currently attending master's degree in FEUP;
-- 🌱 I’m currently studying Information Engineering and Computing;
+- 🌱 I’m currently studying Information Engineering and Computation;
 - 💻 Currently working as Graduate Frontend Software Developer at Revolut;
 - 📫 How to reach me: fuhaochang664961423@hotmail.com;
 - 📞 +351962488078 or +351928225945;
